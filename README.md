@@ -9,8 +9,9 @@
 <a href="https://discord.gg/CHAWON#9096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CHAWON#9096" height="20" width="30" /></a>
 </p>
 
+<p align="center">
 **CAREER OBJECTIVE:**
 To take a challenging and high-performance oriented role in the field of various industry. <br>
 Implement the expertise experience gained in this field to develop complex project with efficiency and quality. <br>
 Hence, I am eager to contribute my creativity and hard work towards the success of for the vision of company <br>
-that will lead to growth in the field of industry. <br>
+that will lead to growth in the field of industry. <br></p>
