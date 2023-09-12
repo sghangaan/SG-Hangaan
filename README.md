@@ -1,7 +1,7 @@
 <p align="center">
 📲Mobile Number: (+ 63) 9488432811 <br>
 📧Email Address: sharonygracehangaan@gmail.com <br>
-🏠Address: 81 Don Mariano Street. Tandang Sora, Quezon City, 1107 <br>
+🏠Address: Don Mariano Street. Tandang Sora, Quezon City, 1107 <br>
 <p align="center">
 <a href="https://linkedin.com/in/sghangaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sghangaan" height="20" width="30" /></a>
 <a href="https://stackoverflow.com/users/22369096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22369096" height="20" width="30" /></a>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-**CAREER OBJECTIVE:**
+<b>CAREER OBJECTIVE:</b>
 To take a challenging and high-performance oriented role in the field of various industry. <br>
 Implement the expertise experience gained in this field to develop complex project with efficiency and quality. <br>
 Hence, I am eager to contribute my creativity and hard work towards the success of for the vision of company <br>
