@@ -1,12 +1,5 @@
 
-![SG-Hangaan (1)](https://github.com/SG-Hangaan/SG-Hangaan/assets/127215110/7388f4f5-b3fe-451f-b224-7f7a8bf8308c)
-
-
-
-
-
-
-
+![SG-Hangaan_light](https://github.com/SG-Hangaan/SG-Hangaan/assets/127215110/b40a5866-2f28-4927-ba77-fe38bba5fcb9)
 
 <p align="center">
 📲Mobile Number: (+ 63) 9488432811 <br>
