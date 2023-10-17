@@ -1,5 +1,7 @@
 
-![SG-Hangaan_dark](https://github.com/SG-Hangaan/SG-Hangaan/assets/127215110/5ba41b93-aa8a-4893-8318-c052b52d92da)
+![SG-Hangaan_DARK_](https://github.com/SG-Hangaan/SG-Hangaan/assets/127215110/f2540859-23d4-4152-9e75-4dc13f4435fe)
+
+
 <p align="center">
 <b>CAREER OBJECTIVE:</b>
 To take a challenging and high-performance oriented role in the field of various industry.  Implement the expertise
