@@ -2,7 +2,7 @@
 ![SG-Hangaan_dark](https://github.com/SG-Hangaan/SG-Hangaan/assets/127215110/5ba41b93-aa8a-4893-8318-c052b52d92da)
 <p align="center">
 <b>CAREER OBJECTIVE:</b>
-To take a challenging and high-performance oriented role in the field of various industry.  Implement the expertise <br>
+To take a challenging and high-performance oriented role in the field of various industry.  Implement the expertise
 experience gained in this field to develop complex project with efficiency and quality. Hence, I am eager to contribute my  <br>
 creativity and hard work towards the success of for the vision of company <br>
 that will lead to growth in the field of industry. <br></p>
